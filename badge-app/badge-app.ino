@@ -1,6 +1,7 @@
 #include <SPI.h>
 #include <WiFiNINA.h>
 #include <MFRC522.h>
+#include <ArduinoJson.h>
 
 // WIFI
 char SSID[] = "Test2Connexion";
@@ -57,15 +58,15 @@ void loop() {
 }
 
 bool postQuery(String path, String data) {
-  if (!client.connect(SERVER, 3000)) {
+  if (!client.connect(SERVER, 3001)) {
     Serial.println("Failed to connect to the API");
     return false;
   }
 
   Serial.println("Successfully connected to the API");
-  client.print("POST");
+  client.print("POST ");
   client.print(path);
-  client.println("HTTP/1.1");
+  client.println(" HTTP/1.1");
   client.println("Host: 192.168.107.199");
   client.println("Content-Type: application/json");
   client.print("Content-Length: ");
@@ -74,5 +75,23 @@ bool postQuery(String path, String data) {
   client.println();
   client.println(data);
   Serial.println("Data successfully send");
-  return true;
+
+  JsonDocument response;
+
+  bool alreadyReceived = false;
+  while (client.connected()) {
+    if (client.available()) {
+      char c = client.read();
+      if (c == '{') {
+        deserializeJson(response, c);
+      }
+      Serial.print(c);
+      alreadyReceived = true;
+    } else if (alreadyReceived) {
+      client.stop();
+    }
+  }
+
+  client.stop();
+  return response["status"];
 }
