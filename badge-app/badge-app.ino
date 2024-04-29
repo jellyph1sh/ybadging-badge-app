@@ -42,12 +42,10 @@ void loop() {
   String data = "{\"rfid\": \"";
   for (byte i = 0; i < 4; i++) {
     data += rfid.uid.uidByte[i];
-    Serial.print(rfid.uid.uidByte[i]);
   }
   data += "\"}";
-  Serial.println();
 
-  if (postQuery("/api/students/find", data)) {
+  if (postQuery("/api/students/find", data) == 1) {
     Serial.println("Agree");
   } else {
     Serial.println("Wrong");
@@ -76,22 +74,39 @@ bool postQuery(String path, String data) {
   client.println(data);
   Serial.println("Data successfully send");
 
+  String jsonStr = "";
   JsonDocument response;
-
   bool alreadyReceived = false;
+  bool isJson = false;
   while (client.connected()) {
     if (client.available()) {
       char c = client.read();
       if (c == '{') {
-        deserializeJson(response, c);
+        isJson = true;
+      } else if (c == '}') {
+        isJson = false;
+        jsonStr += c;
       }
-      Serial.print(c);
+      if (isJson) {
+        jsonStr += c;
+      }
       alreadyReceived = true;
     } else if (alreadyReceived) {
       client.stop();
     }
   }
 
+  DeserializationError error = deserializeJson(response, jsonStr);
+
+  // Test if parsing succeeds.
+  if (error) {
+    Serial.print(F("deserializeJson() failed: "));
+    Serial.println(error.f_str());
+    return false;
+  }
+
+  bool status = response["status"];
+
   client.stop();
-  return response["status"];
+  return status;
 }
