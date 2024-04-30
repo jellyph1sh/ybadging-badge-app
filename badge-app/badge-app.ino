@@ -45,7 +45,7 @@ void loop() {
   }
   data += "\"}";
 
-  if (postQuery("/api/students/find", data) == 1) {
+  if (postQuery("/api/students/rfid/status", data) == 1) {
     Serial.println("Agree");
   } else {
     Serial.println("Wrong");
@@ -62,7 +62,7 @@ bool postQuery(String path, String data) {
   }
 
   Serial.println("Successfully connected to the API");
-  client.print("POST ");
+  client.print("PUT ");
   client.print(path);
   client.println(" HTTP/1.1");
   client.println("Host: 192.168.107.199");
@@ -81,6 +81,7 @@ bool postQuery(String path, String data) {
   while (client.connected()) {
     if (client.available()) {
       char c = client.read();
+      Serial.print(c);
       if (c == '{') {
         isJson = true;
       } else if (c == '}') {
@@ -98,7 +99,6 @@ bool postQuery(String path, String data) {
 
   DeserializationError error = deserializeJson(response, jsonStr);
 
-  // Test if parsing succeeds.
   if (error) {
     Serial.print(F("deserializeJson() failed: "));
     Serial.println(error.f_str());

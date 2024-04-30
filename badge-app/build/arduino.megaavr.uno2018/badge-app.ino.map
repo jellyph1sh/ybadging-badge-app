@@ -1,0 +1,1538 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(UART0.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin) (Serial)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(abi.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin) (__cxa_pure_virtual)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(IPAddress.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin) (_ZTVN7arduino9IPAddressE)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(Print.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin) (_ZN7arduino5Print5writeEPKhj)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(String.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin) (_ZN7arduino6StringD1Ev)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(hooks.c.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin) (yield)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(main.cpp.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o (main)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(new.cpp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin) (_ZdlPv)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(wiring.c.o)
+                              C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin) (F_CPU_CORRECTED)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(wiring_analog.c.o)
+                              wiring.c.o (symbol from plugin) (analogReference)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(wiring_digital.c.o)
+                              wiring_analog.c.o (symbol from plugin) (digital_pin_to_timer)
+C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a(UART.cpp.o)
+                              UART0.cpp.o (symbol from plugin) (_ZN9UartClass9availableEv)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o (exit)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+                              String.cpp.o (symbol from plugin) (dtostrf)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+                              String.cpp.o (symbol from plugin) (atof)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+                              String.cpp.o (symbol from plugin) (atol)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+                              String.cpp.o (symbol from plugin) (strcpy_P)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+                              String.cpp.o (symbol from plugin) (__strlen_P)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+                              String.cpp.o (symbol from plugin) (__itoa)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o) (__itoa_ncheck)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+                              String.cpp.o (symbol from plugin) (__ltoa)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o) (__ltoa_ncheck)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o) (__mulsi_const_10)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+                              String.cpp.o (symbol from plugin) (__ultoa)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o) (__ultoa_ncheck)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+                              String.cpp.o (symbol from plugin) (__utoa)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o) (__utoa_ncheck)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o) (dtoa_prf)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o) (strtod)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__ftoa_engine)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (isspace)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (strncasecmp_P)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o) (strrev)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__eqsf2)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__floatunsisf)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o) (__fp_cmp)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__mulsf3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o) (__mulsf3x)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (errno)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o) (__ctype_isfalse)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_inf)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_nan)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_pscA)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_pscB)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o) (__fp_round)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_split3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_szero)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o) (__do_clear_bss)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__muluhisi3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__prologue_saves__)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__epilogue_restores__)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__udivmodhi4)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__udivmodsi4)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__divmodsi4)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__do_copy_data)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__do_global_ctors)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__do_global_dtors)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__mulshisi3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__lshrdi3)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (__cmpdi2_s8)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+                              c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o) (__tablejump2__)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (malloc)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (realloc)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcmp.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (memcmp)
+c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+                              C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o (memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+__brkval            0x2               c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+fract_inc           0x2               wiring.c.o (symbol from plugin)
+millis_inc          0x2               wiring.c.o (symbol from plugin)
+__flp               0x2               c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+microseconds_per_timer_overflow
+                    0x2               wiring.c.o (symbol from plugin)
+microseconds_per_timer_tick
+                    0x2               wiring.c.o (symbol from plugin)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16DefaultAllocator10reallocateEPvj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16DefaultAllocator10deallocateEPv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16DefaultAllocator8allocateEj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass5beginEm
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10StringNode6createEjPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10StringNode6resizeEPS2_jPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10StringNode7destroyEPS2_PNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._Z15pgm_read_doubleN11ArduinoJson7V704LB16detail5pgm_pE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10StringPool5clearEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10StringPool11dereferenceEPKcPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList16increaseCapacityEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManagerC5EPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManager12createStringEj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManager12resizeStringEPNS1_10StringNodeEj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManager17dereferenceStringEPKc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail8pgm_readEPKd
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail11VariantData9asBooleanEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData12asCollectionEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData8asObjectEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData10setBooleanEb
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData14setOwnedStringEPNS1_10StringNodeE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData7toArrayEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData8toObjectEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB112JsonDocumentC5EPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail18CollectionIterator4nextEPKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail14CollectionData5clearEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData7releaseEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData7setNullEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantPool6createEhPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList7addPoolEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantPool7destroyEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList5clearEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManager5clearEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB112JsonDocument5clearEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManagerD5Ev
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantPool9allocSlotEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList17allocFromLastPoolEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList17allocFromFreeListEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15VariantPoolList9allocSlotEPNS0_9AllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail15ResourceManager9allocSlotEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail14CollectionData7addSlotEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail9ArrayData10addElementEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10ObjectData9addMemberEPNS1_10StringNodeEPNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail14EscapeSequence12unescapeCharEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail13StringBuilderD5Ev
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail13StringBuilder11startStringEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail13StringBuilder6appendEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB120DeserializationError5f_strEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE8messages
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail5Utf169Codepoint6appendEj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino9IPAddressC5ERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail7pgm_ptrIdEixEi
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10make_floatIdiEET_S3_T0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN11ArduinoJson7V704LB16detail11FloatTraitsIdLj4EE25positiveBinaryPowersOfTenEvE7factors
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN11ArduinoJson7V704LB16detail11FloatTraitsIdLj4EE25negativeBinaryPowersOfTenEvE7factors
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11parseNumberEPKcRNS1_11VariantDataE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail12stringEqualsINS1_14SizedRamStringES3_EENS1_9enable_ifIXlesrT_11typeSortKeysrT0_11typeSortKeyEbE4typeES5_S6_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail10StringPool3getINS1_14SizedRamStringEEEPNS1_10StringNodeERKT_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail13StringBuilder4saveEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEEC5EPNS1_15ResourceManagerES6_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail14VariantRefBaseINS1_11MemberProxyIRNS0_12JsonDocumentEPKcEEE18getResourceManagerEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE13canBeInNumberEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE7isQuoteEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail4Utf815encodeCodepointINS1_13StringBuilderEEEvmRT_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail14IteratorReaderIPKcE4readEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail5LatchINS1_6ReaderIN7arduino6StringEvEEE4loadEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE7currentEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE21skipSpacesAndCommentsEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE3eatEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE11skipKeywordEPKc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE17parseNumericValueERNS1_11VariantDataE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE22canBeInNonQuotedStringEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE20parseNonQuotedStringEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail12stringEqualsINS1_19StaticStringAdapterES3_EENS1_9enable_ifIXlesrT_11typeSortKeysrT0_11typeSortKeyEbE4typeES5_S6_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail10ObjectData7findKeyINS1_19StaticStringAdapterEEENS1_18CollectionIteratorET_PKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail10ObjectData9getMemberINS1_19StaticStringAdapterEEEPNS1_11VariantDataET_PKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE9decodeHexEc
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE9parseHex4ERj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE17parseQuotedStringEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE8parseKeyEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE16parseStringValueERNS1_11VariantDataE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE12parseVariantINS1_14AllowAllFilterEEENS0_20DeserializationError4CodeERNS1_11VariantDataET_NS0_21DeserializationOption12NestingLimitE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11deserializeINS1_16JsonDeserializerERNS0_12JsonDocumentERN7arduino6StringEJEvEENS0_20DeserializationErrorEOT0_OT1_DpT2_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE10parseArrayINS1_14AllowAllFilterEEENS0_20DeserializationError4CodeERNS1_9ArrayDataET_NS0_21DeserializationOption12NestingLimitE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail16JsonDeserializerINS1_6ReaderIN7arduino6StringEvEEE11parseObjectINS1_14AllowAllFilterEEENS0_20DeserializationError4CodeERNS1_10ObjectDataET_NS0_21DeserializationOption12NestingLimitE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail10ObjectData9getMemberINS1_19StaticStringAdapterEEEPNS1_11VariantDataEPKS2_T_PKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail11VariantData9getMemberINS1_19StaticStringAdapterEEEPS2_T_PKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN11ArduinoJson7V704LB16detail11VariantData9getMemberINS1_19StaticStringAdapterEEEPS2_PKS2_T_PKNS1_15ResourceManagerE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail11MemberProxyIRNS0_12JsonDocumentEPKcE7getDataEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail14VariantRefBaseINS1_11MemberProxyIRNS0_12JsonDocumentEPKcEEE7getDataEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK11ArduinoJson7V704LB16detail14VariantRefBaseINS1_11MemberProxyIRNS0_12JsonDocumentEPKcEEE2asIbEENS1_9enable_ifIXntsrNS1_26ConverterNeedsWriteableRefIT_EE5valueESD_E4typeEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN11ArduinoJson7V704LB16detail16DefaultAllocator8instanceEvE9allocator
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN11ArduinoJson7V704LB16detail16DefaultAllocatorE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s0
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s1
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s2
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s3
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s4
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZNK11ArduinoJson7V704LB120DeserializationError5f_strEvE2s5
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVR15attachInterruptEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVR15detachInterruptEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVRD5Ev
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV15SPIClassMegaAVR
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVR16init_MightInlineEm8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5Em8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5ERN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVR16beginTransactionEN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFi.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino9IPAddressC5ERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFi.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV10WiFiClient
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino9IPAddressC5ERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiClient.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV13WiFiSSLClient
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino9IPAddressC5ERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV17WiFiBearSSLClient
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5flushEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV10WiFiServer
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino6StreamC5EOS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN7arduino6StreamE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino6ClientC5EOS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN7arduino6ClientE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN10WiFiClientC5EOS_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiStorage.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7WiFiDrv10existsFileEPKchPm
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiStorage.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN16WiFiStorageClass6existsEPKcPm
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiStorage.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15WiFiStorageFile4sizeEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiStorage.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7WiFiUDP4readEPcj
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV7WiFiUDP
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino9IPAddressC5ERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\WiFiSocketBuffer.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\nano_rp2040_support.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\server_drv.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVR16init_MightInlineEm8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5Em8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5ERN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVR16beginTransactionEN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\wifi_drv.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK7arduino9IPAddressneERKS0_
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\wifi_drv.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVR16init_MightInlineEm8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5Em8BitOrderh
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18SPISettingsMegaAVRC5ERN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15SPIClassMegaAVR16beginTransactionEN7arduino11SPISettingsE
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV7MFRC522
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522Extended.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV15MFRC522Extended
+                0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522Extended.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\core\variant.c.o (symbol from plugin)
+ .text          0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass5beginEm
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClasscvbEv
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClassC5EPV12USART_structhhhh
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass16_rx_complete_irqEv
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 abi.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 IPAddress.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN7arduino9IPAddressE
+                0x00000000        0x0 IPAddress.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5flushEv
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5writeEPKc
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5writeEPKcj
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN7arduino5PrintE
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 String.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 hooks.c.o (symbol from plugin)
+ .text          0x00000000        0x0 main.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 new.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring_analog.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring_digital.c.o (symbol from plugin)
+ .text          0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass5beginEm
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClasscvbEv
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV9UartClass
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .text.avr-libc
+                0x00000000       0x3c c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .comment       0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .text.avr-libc
+                0x00000000        0x8 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .text.avr-libc
+                0x00000000       0x4e c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .text.avr-libc
+                0x00000000        0xe c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x1e c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .text.avr-libc
+                0x00000000       0x2a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x44 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .text.avr-libc
+                0x00000000      0x2be c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .comment       0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .text.avr-libc
+                0x00000000      0x2a0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .progmem.data  0x00000000       0x3b c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .comment       0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .text.avr-libc
+                0x00000000      0x1b0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .progmem.data  0x00000000       0xfa c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .text.avr-libc
+                0x00000000       0x30 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .comment       0x00000000       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ COMMON         0x00000000        0x2 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x00000000        0x6 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcmp.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcmp.o)
+ .text          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000009         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x802800
+                0x00004000                __RODATA_PM_OFFSET__ = 0x4000
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+Address of section .text set to 0x200
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\sketch\badge-app.ino.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\SPI\SPI.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFi.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiClient.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiSSLClient.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiServer.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiStorage.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\WiFiUdp.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\WiFiSocketBuffer.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\nano_rp2040_support.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\server_drv.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\spi_drv.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\WiFiNINA\utility\wifi_drv.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\libraries\MFRC522\MFRC522Extended.cpp.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F\core\variant.c.o
+LOAD C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/..\..\cores\arduino_megaavr_uno2018_mode_on_fc5c0c7fd645499f097260f74afcd886\core.a
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libm.a
+START GROUP
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a
+END GROUP
+                0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000009]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000200     0x54ac
+ *(.vectors)
+ .vectors       0x00000200       0xa0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x00000200                __vector_default
+                0x00000200                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000002a0                . = ALIGN (0x2)
+                0x000002a0                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000002a0        0x0 linker stubs
+ *(.trampolines*)
+                0x000002a0                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data  0x000002a0       0x93 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                0x00000334                . = ALIGN (0x2)
+ *fill*         0x00000333        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000334                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000334        0x2 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                0x00000336                __ctors_end = .
+                0x00000336                __dtors_start = .
+ *(.dtors)
+ .dtors         0x00000336        0x2 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                0x00000338                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000338        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x00000338                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000338        0xc c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000344       0x10 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+                0x00000344                __do_clear_bss
+ .init4         0x00000354       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+                0x00000354                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000036a       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+                0x0000036a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000380        0x8 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ *(.init9)
+ *(.text)
+ .text          0x00000388        0x4 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x00000388                __vector_22
+                0x00000388                __vector_28
+                0x00000388                __vector_1
+                0x00000388                __vector_32
+                0x00000388                __vector_34
+                0x00000388                __vector_24
+                0x00000388                __vector_12
+                0x00000388                __bad_interrupt
+                0x00000388                __vector_6
+                0x00000388                __vector_31
+                0x00000388                __vector_35
+                0x00000388                __vector_39
+                0x00000388                __vector_3
+                0x00000388                __vector_23
+                0x00000388                __vector_30
+                0x00000388                __vector_25
+                0x00000388                __vector_11
+                0x00000388                __vector_13
+                0x00000388                __vector_17
+                0x00000388                __vector_19
+                0x00000388                __vector_7
+                0x00000388                __vector_27
+                0x00000388                __vector_5
+                0x00000388                __vector_33
+                0x00000388                __vector_4
+                0x00000388                __vector_9
+                0x00000388                __vector_2
+                0x00000388                __vector_21
+                0x00000388                __vector_15
+                0x00000388                __vector_29
+                0x00000388                __vector_8
+                0x00000388                __vector_26
+                0x00000388                __vector_14
+                0x00000388                __vector_10
+                0x00000388                __vector_16
+                0x00000388                __vector_18
+                0x00000388                __vector_20
+ .text          0x0000038c     0x3f76 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                0x0000415c                __vector_36
+                0x00004224                __vector_38
+                0x00004270                __vector_37
+                0x00004302                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00004302      0xb10 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                0x00004474                main
+ .text.exit     0x00004e12       0x30 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .text.avr-libc
+                0x00004e42       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+                0x00004e42                __itoa_ncheck
+ .text.avr-libc
+                0x00004e58       0x34 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+                0x00004e58                __utoa_ncheck
+                0x00004e5a                __utoa_common
+ .text.avr-libc
+                0x00004e8c       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+                0x00004e8c                strrev
+ .text.avr-libc.fplib
+                0x00004eac        0xa c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+                0x00004eac                __nesf2
+                0x00004eac                __eqsf2
+                0x00004eac                __cmpsf2
+                0x00004eac                __ltsf2
+                0x00004eac                __lesf2
+ .text.avr-libc.fplib
+                0x00004eb6       0x7a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+                0x00004eb6                __floatunsisf
+                0x00004eba                __floatsisf
+ .text.avr-libc.fplib
+                0x00004f30       0x48 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+                0x00004f30                __fp_cmp
+ .text.avr-libc.fplib
+                0x00004f78        0x8 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+                0x00004f78                __mulsf3
+ .text.avr-libc.fplib
+                0x00004f80       0xd2 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+                0x00004f9e                __mulsf3x
+                0x00004fa4                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00005052        0xc c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+                0x00005052                __fp_inf
+ .text.avr-libc.fplib
+                0x0000505e        0x6 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+                0x0000505e                __fp_nan
+ .text.avr-libc.fplib
+                0x00005064        0xe c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+                0x00005064                __fp_pscA
+ .text.avr-libc.fplib
+                0x00005072        0xe c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+                0x00005072                __fp_pscB
+ .text.avr-libc.fplib
+                0x00005080       0x22 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+                0x00005080                __fp_round
+ .text.avr-libc.fplib
+                0x000050a2       0x44 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+                0x000050a2                __fp_split3
+                0x000050b2                __fp_splitA
+ .text.avr-libc.fplib
+                0x000050e6        0xe c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+                0x000050e6                __fp_zero
+                0x000050e8                __fp_szero
+ .text.libgcc.mul
+                0x000050f4       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                0x000050f4                __muluhisi3
+ .text.libgcc.prologue
+                0x0000510a       0x32 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+                0x0000510a                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000513c       0x30 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+                0x0000513c                __epilogue_restores__
+ .text.libgcc.mul
+                0x0000516c       0x1e c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                0x0000516c                __umulhisi3
+ .text.libgcc.div
+                0x0000518a       0x28 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                0x0000518a                __udivmodhi4
+ .text.libgcc.div
+                0x000051b2       0x44 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                0x000051b2                __udivmodsi4
+ .text.libgcc.div
+                0x000051f6       0x2e c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+                0x000051f6                __divmodsi4
+ .text.libgcc.div
+                0x00005224       0x10 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+                0x00005224                __negsi2
+ .text.libgcc.mul
+                0x00005234       0x10 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+                0x00005234                __mulshisi3
+                0x0000523a                __mulohisi3
+ .text.libgcc.builtins
+                0x00005244       0x3a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+                0x00005244                __ashrdi3
+                0x00005248                __lshrdi3
+ .text.libgcc   0x0000527e       0x18 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+                0x0000527e                __cmpdi2_s8
+ .text.libgcc   0x00005296        0xc c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+                0x00005296                __tablejump2__
+ .text.avr-libc
+                0x000052a2      0x24a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+                0x000052a2                malloc
+                0x000053da                free
+ .text.avr-libc
+                0x000054ec      0x17a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+                0x000054ec                realloc
+ .text.avr-libc
+                0x00005666       0x1a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcmp.o)
+                0x00005666                memcmp
+ .text.avr-libc
+                0x00005680       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(memcpy.o)
+                0x00005680                memcpy
+                0x00005692                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00005692        0x0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+                0x00005692                _exit
+                0x00005692                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x00005692       0x16 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+                0x00005692                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000056a8        0x4 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000056ac                _etext = .
+
+.rodata         0x000096ac      0x275 load address 0x000056ac
+ *(.rodata)
+ .rodata        0x000096ac      0x124 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x000097d0      0x151 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                                0x159 (size before relaxing)
+ *(.gnu.linkonce.r*)
+
+.data           0x00802800       0x2a load address 0x00005921
+                0x00802800                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802800       0x23 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .data          0x00802823        0x6 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+                0x00802823                __malloc_heap_end
+                0x00802825                __malloc_heap_start
+                0x00802827                __malloc_margin
+ *(.data*)
+ *(.gnu.linkonce.d*)
+                0x0080282a                . = ALIGN (0x2)
+ *fill*         0x00802829        0x1 
+                0x0080282a                _edata = .
+                0x0080282a                PROVIDE (__data_end, .)
+
+.bss            0x0080282a      0x19d
+                0x0080282a                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080282a      0x199 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008029c3        0x4 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+                0x008029c3                __brkval
+                0x008029c5                __flp
+                0x008029c7                PROVIDE (__bss_end, .)
+                0x00005921                __data_load_start = LOADADDR (.data)
+                0x0000594b                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008029c7        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008029c7                _end = .
+                0x008029c7                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(malloc.o)
+ .comment       0x00000011       0x12 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(realloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x250
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000030       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000050       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000070       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000090       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_aranges
+                0x000000b0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_aranges
+                0x000000d0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x000000f0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000110       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000130       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000150       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x00000170       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000190       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_aranges
+                0x000001b0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .debug_aranges
+                0x000001d0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .debug_aranges
+                0x000001f0       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .debug_aranges
+                0x00000210       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .debug_aranges
+                0x00000230       0x20 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x14754
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x249d c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_info    0x0000249d    0x115f7 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .debug_info    0x00013a94       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_info    0x00013b54       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_info    0x00013c14       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_info    0x00013cd4       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_info    0x00013d94       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_info    0x00013e54       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_info    0x00013f14       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00013fd4       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00014094       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_info    0x00014154       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_info    0x00014214       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_info    0x000142d4       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_info    0x00014394       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .debug_info    0x00014454       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .debug_info    0x00014514       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .debug_info    0x000145d4       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .debug_info    0x00014694       0xc0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+
+.debug_abbrev   0x00000000     0x32fa
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x22a8 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_abbrev  0x000022a8      0xefe C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .debug_abbrev  0x000031a6       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_abbrev  0x000031ba       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000031ce       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000031e2       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_abbrev  0x000031f6       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_abbrev  0x0000320a       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x0000321e       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00003232       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00003246       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x0000325a       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_abbrev  0x0000326e       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00003282       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_abbrev  0x00003296       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .debug_abbrev  0x000032aa       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .debug_abbrev  0x000032be       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .debug_abbrev  0x000032d2       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .debug_abbrev  0x000032e6       0x14 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+
+.debug_line     0x00000000     0x4cc1
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x187 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_line    0x00000187     0x3ff0 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+ .debug_line    0x00004177       0x62 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_line    0x000041d9       0x86 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_line    0x0000425f       0x92 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_line    0x000042f1       0xec c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_line    0x000043dd       0xe6 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_line    0x000044c3       0xb0 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_line    0x00004573       0xce c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00004641      0x122 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00004763       0xce c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_line    0x00004831       0x62 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_line    0x00004893       0x98 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_line    0x0000492b       0x92 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_line    0x000049bd       0x92 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_dtors.o)
+ .debug_line    0x00004a4f       0x7a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .debug_line    0x00004ac9      0x104 c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ashrdi3.o)
+ .debug_line    0x00004bcd       0x7a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_cmpdi2_s8.o)
+ .debug_line    0x00004c47       0x7a c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+
+.debug_frame    0x00000000     0x1474
+ *(.debug_frame)
+ .debug_frame   0x00000000     0x1474 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+
+.debug_str      0x00000000     0x5277
+ *(.debug_str)
+ .debug_str     0x00000000      0xf8b c:/users/jelly/appdata/local/arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_str     0x00000f8b     0x42ec C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+                               0x4587 (size before relaxing)
+
+.debug_loc      0x00000000     0xacaf
+ *(.debug_loc)
+ .debug_loc     0x00000000     0xacaf C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xde8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0xde8 C:\Users\Jelly\AppData\Local\Temp\ccBMcC1n.ltrans0.ltrans.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(C:\Users\Jelly\AppData\Local\Temp\arduino\sketches\086B966BAB3A9916716A32606A48016F/badge-app.ino.elf elf32-avr)
+LOAD linker stubs
